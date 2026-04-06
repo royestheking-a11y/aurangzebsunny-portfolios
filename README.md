@@ -98,4 +98,4 @@ This portfolio is designed to **WOW** at first glance. It prioritizes:
 
 ---
 
-Generated with ❤️ for Aurangzeb Sunny. Original design based on [Figma](https://www.figma.com/design/cYrLssKSHOi4vUcZpefJMy/Aurangzeb-Sunny-Portfolio).
+Made by  Aurangzeb Sunny.
